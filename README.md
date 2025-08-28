@@ -1,4 +1,5 @@
 # Bookly
+https://github.com/manar42/Bookly/blob/0aad9c30ae33ec3cac4851437a13aa554b2307d1/-.png
 [![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/manar42/Bookly)
 
 Bookly is a cross-platform mobile application built with Flutter that allows users to discover, search, and read free books. It fetches data from the Google Books API and provides a clean, user-friendly interface for an enjoyable reading experience. The app supports both light and dark themes, as well as multiple languages (English and Arabic).
